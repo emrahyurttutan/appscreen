@@ -2,7 +2,6 @@
 
 A free, open-source tool for creating beautiful App Store screenshots with customizable backgrounds, text overlays, and 3D device mockups.
 
-
 **[Start using it now. Hosted on GitHub Pages](https://yuzu-hub.github.io/appscreen/)**
 
 ![App Store Screenshot Generator](img/screenshot-generator.png)
@@ -14,11 +13,13 @@ A free, open-source tool for creating beautiful App Store screenshots with custo
 ## Features
 
 ### Output & Export
+
 - **Multiple Output Sizes**: iPhone 6.9", 6.7", 6.5", 5.5" and iPad 12.9", 11" App Store requirements, plus custom sizes
 - **Batch Export**: Export all screenshots at once as a ZIP file
 - **Per-Screenshot Settings**: Each screenshot can have its own background, device settings, and text
 
 ### Backgrounds
+
 - **Gradient Backgrounds**: Multi-stop gradients with draggable color stops and angle control
 - **Preset Gradients**: Quick-access gradient presets for common styles
 - **Solid Color**: Simple single-color backgrounds
@@ -26,6 +27,7 @@ A free, open-source tool for creating beautiful App Store screenshots with custo
 - **Noise Overlay**: Add subtle noise texture to any background
 
 ### Device Mockups
+
 - **2D Mode**: Position, scale, rotate, and adjust corner radius of screenshots
 - **3D Mode**: Interactive iPhone 15 Pro Max 3D mockup with drag-to-rotate
 - **Position Presets**: Centered, bleed, tilt left/right, perspective, and more
@@ -33,6 +35,7 @@ A free, open-source tool for creating beautiful App Store screenshots with custo
 - **Border Effects**: Add borders around screenshots with adjustable width and opacity
 
 ### Text Overlays
+
 - **Headlines & Subheadlines**: Separate controls with enable/disable toggles
 - **Font Picker**: Access to 1500+ Google Fonts with search and preview
 - **Text Styling**: Font weight, italic, underline, strikethrough options
@@ -40,6 +43,7 @@ A free, open-source tool for creating beautiful App Store screenshots with custo
 - **Line Height**: Adjustable spacing for multi-line text
 
 ### Multi-Language Support
+
 - **Multiple Languages**: Add translations for any language
 - **Language Flags**: Visual language switcher with flag icons
 - **AI-Powered Translation**: Auto-translate using Claude, OpenAI, or Google AI
@@ -49,11 +53,13 @@ A free, open-source tool for creating beautiful App Store screenshots with custo
 - **Multi-Language Export**: Export current language only or all languages in separate folders
 
 ### Project Management
+
 - **Multiple Projects**: Create, rename, and delete projects
 - **Auto-Save**: All changes saved automatically to browser storage
 - **Screenshot Count**: See screenshot counts in project selector
 
 ### User Interface
+
 - **Dark Theme**: Easy on the eyes for extended editing sessions
 - **Side Preview Carousel**: See adjacent screenshots while editing
 - **Drag & Drop**: Reorder screenshots by dragging
@@ -181,23 +187,24 @@ Your API key is stored locally in your browser and only sent to the respective A
 
 Built something with this tool? Add your app to the list by submitting a pull request!
 
-| App | Description | Link |
-|-----|-------------|------|
-| Cable | Manage your 12V systems like Boats and RVs | [cable.yuzuhub.com](https://cable.yuzuhub.com) |
-| Eno | Wine pairings and food pairings made easy | [eno.yuzuhub.com](https://eno.yuzuhub.com) |
-| TravelRates Currency Converter* | Exchange Rates for Travelers | [apple.com](https://apps.apple.com/sg/app/travelrates-currency-converter/id6756080378) |
-| Trakz Sales Tracker | Manage sales for restaurants and small businesses | [apple.com](https://apps.apple.com/us/app/trakz-sales-tracker/id6748954468) |
-| AI Soccer Insights Football IQ | AI-powered football predictions and insights | [apple.com](https://apps.apple.com/us/app/ai-soccer-insights-football-iq/id6592649804) |
-| Navegatime | time tracking for workers and business functions | [play.google.com](https://play.google.com/store/apps/details?id=com.companyname.NavegaTime) |
-| Sommo | Your personal wine journey — scan labels, learn wine, and build your tasting journal | [sommo.app](https://sommo.app) |
-| Dandelion: Write and Let Go | An ephemeral journal for writing to let go, not save. | [apple.com](https://apps.apple.com/us/app/dandelion-write-and-let-go/id6757363901) |
-| *Your app here* | *Submit a PR to add your app* | *Your app link* |
+| App                              | Description                                                                          | Link                                                                                        |
+| -------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| Cable                            | Manage your 12V systems like Boats and RVs                                           | [cable.yuzuhub.com](https://cable.yuzuhub.com)                                              |
+| Eno                              | Wine pairings and food pairings made easy                                            | [eno.yuzuhub.com](https://eno.yuzuhub.com)                                                  |
+| TravelRates Currency Converter\* | Exchange Rates for Travelers                                                         | [apple.com](https://apps.apple.com/sg/app/travelrates-currency-converter/id6756080378)      |
+| Trakz Sales Tracker              | Manage sales for restaurants and small businesses                                    | [apple.com](https://apps.apple.com/us/app/trakz-sales-tracker/id6748954468)                 |
+| AI Soccer Insights Football IQ   | AI-powered football predictions and insights                                         | [apple.com](https://apps.apple.com/us/app/ai-soccer-insights-football-iq/id6592649804)      |
+| Navegatime                       | time tracking for workers and business functions                                     | [play.google.com](https://play.google.com/store/apps/details?id=com.companyname.NavegaTime) |
+| Sommo                            | Your personal wine journey — scan labels, learn wine, and build your tasting journal | [sommo.app](https://sommo.app)                                                              |
+| Dandelion: Write and Let Go      | An ephemeral journal for writing to let go, not save.                                | [apple.com](https://apps.apple.com/us/app/dandelion-write-and-let-go/id6757363901)          |
+| _Your app here_                  | _Submit a PR to add your app_                                                        | _Your app link_                                                                             |
 
 ## License
 
 MIT License - feel free to use, modify, and distribute.
 
 ## Credits
+
 - **Samsung Galaxy S25 Ultra 3D Model** by [mistJS](https://sketchfab.com/mistjs) - Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 - **iPhone 15 Pro Max 3D Model** by [MajdyModels](https://sketchfab.com/majdymodels) - Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
